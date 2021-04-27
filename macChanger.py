@@ -1,3 +1,5 @@
+# Made by Sly Fluffy Fox
+# Many thanks to Zaid Sabih from zSecurity and Udemy.com
 # We'll be using the subprocess.call function and ifconfig
 # Reason is - the call function waits for command to be executed before going ahead with the program
 import subprocess
